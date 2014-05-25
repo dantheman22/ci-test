@@ -22,4 +22,14 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <developers>
+    <developer>
+      <id>danwhite</id>
+      <name>Daniel White</name>
+      <email>d_e_white@icloud.com</email>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
 </project>
